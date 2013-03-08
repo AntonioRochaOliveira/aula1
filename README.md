@@ -2,4 +2,5 @@ aula1
 =====
 
 Aula 1 - teste
-Teste alteração 1
+Teste alteraï¿½ï¿½o 1
+TRETA
